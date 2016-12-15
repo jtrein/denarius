@@ -1,0 +1,29 @@
+{
+  "name": "denarius",
+  "version": "0.1.0",
+  "description": "Currency converter, service worker example app.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jtrein/denarius.git"
+  },
+  "keywords": [
+    "service worker",
+    "progressive web app",
+    "react",
+    "redux",
+    "currency converter",
+    "exchange rate calculator"
+  ],
+  "author": "Jeremiah Trein <jeremiahtrein@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jtrein/denarius/issues"
+  },
+  "homepage": "https://github.com/jtrein/denarius#readme"
+}
