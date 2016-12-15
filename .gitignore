@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+*.lock
+
+# Sublime
+*.sublime-*
+
+# Node modules
+node_modules
+
+# app
+client
+src
