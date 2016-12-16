@@ -1,7 +1,9 @@
 # denarius💰
-### Fully-working currency converter. Progressive web app. [Service Worker](https://developer.mozilla.org/en/docs/Web/API/Service_Worker_API) + [React](https://facebook.github.io/react) + [Redux](http://redux.js.org/).
+## Fully-working currency converter. Progressive web app, starring *offline access* & *push notifications*.
 
-* Updates hourly.
+### [Service Worker](https://developer.mozilla.org/en/docs/Web/API/Service_Worker_API) + [React](https://facebook.github.io/react) + [Redux](http://redux.js.org/).
+
+* Updates hourly and sends you a kind push notification. *"I hate to trouble you, but the Denarius is up against the Dollar, I repeat...!*
 * Use it for all 'yo money needs - it works!
 * Fork it, change it, fax, rename it. *Technologic.*
 
